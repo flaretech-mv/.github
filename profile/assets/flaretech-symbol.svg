@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+<title id="title">FlareTech symbol</title>
+<desc id="desc">Full-colour Signal F symbol for light surfaces</desc>
+
+<g transform="translate(-2.5 2.5)">
+    <path fill="#F05432" d="M12 56V20C12 11.163 19.163 4 28 4H44V14H28C24.686 14 22 16.686 22 20V26H40V36H22V56Z"/>
+    <path fill="#F05432" d="M50 3L57 10L50 17L43 10Z"/>
+    <circle fill="#007F7A" cx="45" cy="31" r="5"/>
+    </g>
+</svg>
